@@ -27,7 +27,7 @@ Welcome to the Scroll-Triggered Content Reveal with CSS Animations project! This
 <span>Scroll-Triggered Content Reveal with CSS Animations</span>
 <br />
 <a href="#" target="_blank">
-<img style="width:350px;" src="./img" alt="" /></a>
+<img style="width:350px;" src="./img/landingPage.png" alt="" /></a>
 <br/>
 <span>Scroll-Triggered Content Reveal with CSS Animations Start & End Point </span>
 <br/>
@@ -43,12 +43,6 @@ Welcome to the Scroll-Triggered Content Reveal with CSS Animations project! This
 <img style="width:350px;" src="./img" alt="" />
 </a>
 
-<br />
-<span>Mastering Card Stacking UI UX Layout</span>
-<br />
-<a href="#" target="_blank">
-<img style="width:350px;" src="./img" alt="" />
-</a>
 <br/>
 <span>Cover</span>
 <br/>
@@ -61,8 +55,12 @@ Welcome to the Scroll-Triggered Content Reveal with CSS Animations project! This
 <ul>
   <li>Graphic Design Software: Adobe Illustrator, Photoshop, Figma (for mockups)</li>
   <li>Web Tools (Optional): HTML5, CSS3 for any digital presentations or landing pages</li>
-  <li>Font Awesome (Optional for icons)</li>
+  <li>No JavaScript: This effect is implemented purely with CSS.</li>
 </ul>
+
+### Contribution
+Feel free to fork this repository and contribute by submitting pull requests. If you find any bugs or issues, please report them in the Issues section.
+
 
 ###  Acknowledgments
 Inspired by the power of CSS positioning and scrolling techniques.
