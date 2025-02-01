@@ -28,8 +28,9 @@ Welcome to the Scroll-Triggered Content Reveal with CSS Animations project! This
 <br/>
 <a href="https://www.behance.net/gallery/218213655/Scroll-Triggered-Content-Reveal" target="_blank">
 <img style="width:350px;" src="./img/landingPage.gif" alt="" />
-<br/>
+
 </a>
+<br/>
 <a href="https://www.behance.net/gallery/218213655/Scroll-Triggered-Content-Reveal" target="_blank">
 <img style="width:350px;" src="./img/landingPage.png" alt="" /></a>
 <br/>
