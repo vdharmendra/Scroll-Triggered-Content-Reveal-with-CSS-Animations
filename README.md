@@ -25,29 +25,19 @@ Welcome to the Scroll-Triggered Content Reveal with CSS Animations project! This
 
 # Preview
 <span>Scroll-Triggered Content Reveal with CSS Animations</span>
-<br />
-<a href="#" target="_blank">
+<br/>
+<a href="https://www.behance.net/gallery/218213655/Scroll-Triggered-Content-Reveal" target="_blank">
+<img style="width:350px;" src="./img/landingPage.gif" alt="" />
+<br/>
+<a href="https://www.behance.net/gallery/218213655/Scroll-Triggered-Content-Reveal" target="_blank">
 <img style="width:350px;" src="./img/landingPage.png" alt="" /></a>
 <br/>
 <span>Scroll-Triggered Content Reveal with CSS Animations Start & End Point </span>
 <br/>
-<a href="#" target="_blank">
-<img style="width:350px;" src="./img" alt="" />
-<br />
-<img style="width:350px;" src="./img" alt="" />
-</a>
-<br/>
-<span>Mastering Card Stacking UI UX Layout</span>
-<br/>
-<a href="#" target="_blank">
-<img style="width:350px;" src="./img" alt="" />
-</a>
-
-<br/>
 <span>Cover</span>
 <br/>
-<a href="#" target="_blank">
-<img style="width:350px;" src="./img" alt="" />
+<a href="https://www.behance.net/gallery/218213655/Scroll-Triggered-Content-Reveal" target="_blank">
+<img style="width:350px;" src="./img/cover.png" alt="" />
 </a>
 <br />
 
